@@ -1,4 +1,4 @@
-# ghostyhunter
+# Ghostyhunter The Game
 ghostyhunter the game
 
 Yönlendirilmiş Çalışma Final Projesi
